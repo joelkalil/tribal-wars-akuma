@@ -2045,7 +2045,7 @@ window.twSDK = {
             const body = {
                 username: `${twSDK.tt('Farm Statistics')}`,
                 avatar_url:
-                    'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/tribal-wars-icon.png',
+                    'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/icons/tribal-wars-icon.png',
                 embeds: [
                     {
                         color: 12690020,
@@ -2098,7 +2098,7 @@ window.twSDK = {
                         footer: {
                             text: `${name} ${version} - ${author}`,
                             icon_url:
-                                'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/tribal-wars-icon.png',
+                                'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/icons/tribal-wars-icon.png',
                         },
                     },
                 ],
@@ -2187,4 +2187,5 @@ window.twSDK = {
         }
     }
 })();
+
 

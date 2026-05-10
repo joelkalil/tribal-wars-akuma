@@ -401,7 +401,7 @@ $.getScript(
                     const body = {
                         username: twSDK.tt('TW SnipeBot'),
                         avatar_url:
-                            'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/tribal-wars-icon.png',
+                            'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/icons/tribal-wars-icon.png',
                         embeds: [
                             {
                                 color: 12690020,
@@ -463,7 +463,7 @@ $.getScript(
                                 footer: {
                                     text: `${name} ${version} - ${author}`,
                                     icon_url:
-                                        'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/tribal-wars-icon.png',
+                                        'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/icons/tribal-wars-icon.png',
                                 },
                             },
                         ],
@@ -754,4 +754,5 @@ $.getScript(
         }
     }
 );
+
 

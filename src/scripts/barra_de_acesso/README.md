@@ -6,8 +6,10 @@ Os creditos originais foram preservados nos cabecalhos dos arquivos. As versoes 
 
 ## Autores Identificados
 
+- Akuma
 - Nao informado no arquivo
 - RedAlert
+- Sophie "Shinko to Kuma"
 
 ## Como Usar
 
@@ -38,7 +40,7 @@ Scripts com configuracao propria mantem a configuracao antes do `$.getScript`, c
 | `convertTextToNote.js` | Convert Text to Village Note | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/convertTextToNote.js');` |
 | `countHomeTroops.js` | Own Home Troops Count | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/countHomeTroops.js');` |
 | `defenseHealthCheck.js` | Defense Health Check | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/defenseHealthCheck.js');` |
-| `discordSupportTool.js` | Discord Support Tool | `javascript:var config={webhookURL:'',username:'Discord Support Tool',avatar:'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/tribal-wars-icon.png',colorCode:12690020};$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/discordSupportTool.js');` |
+| `discordSupportTool.js` | Discord Support Tool | `javascript:var config={webhookURL:'',username:'Discord Support Tool',avatar:'https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/assets/icons/tribal-wars-icon.png',colorCode:12690020};$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/discordSupportTool.js');` |
 | `evolvedFakeTrain.js` | Evolved Fake Train | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/evolvedFakeTrain.js');` |
 | `extendedPlayerInfo.js` | Extended Player Info | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/extendedPlayerInfo.js');` |
 | `extendedTribeInfo.js` | Extended Tribe Info | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/extendedTribeInfo.js');` |
@@ -84,6 +86,7 @@ Scripts com configuracao propria mantem a configuracao antes do `$.getScript`, c
 | `troopsCounterFixed.js` | troopsCounterFixed | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/troopsCounterFixed.js');` |
 | `troopTemplatesManager.js` | Troop Templates Manager | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/troopTemplatesManager.js');` |
 | `villagesInRange.js` | Find Villages in Range | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/villagesInRange.js');` |
+| `WHBalancerAkuma.js` | Akuma WH Cluster Balancer | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/WHBalancerAkuma.js');` |
 | `watchtowerEvolved.js` | WatchTower Evolved | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/watchtowerEvolved.js');` |
 
 ## Creditos
@@ -151,6 +154,7 @@ Scripts com configuracao propria mantem a configuracao antes do `$.getScript`, c
 | `troopsCounterFixed.js` | troopsCounterFixed | Nao informado | Nao informado no arquivo | Akuma |
 | `troopTemplatesManager.js` | Troop Templates Manager | v1.2.6-akuma.1 | RedAlert | Akuma |
 | `villagesInRange.js` | Find Villages in Range | v1.1.2-akuma.1 | RedAlert | Akuma |
+| `WHBalancerAkuma.js` | Akuma WH Cluster Balancer | v1.0.0-akuma.1 | Akuma, inspirado por Sophie "Shinko to Kuma" | Akuma |
 | `watchtowerEvolved.js` | WatchTower Evolved | v1.1.2-akuma.1 | RedAlert | Akuma |
 
 ## Dependencias Locais
@@ -165,4 +169,6 @@ Esses arquivos sao carregados por outros scripts e tambem foram copiados para re
 ## Tema Akuma
 
 A skin adicionada usa base escura, bordas discretas, verde neon, azul eletrico, vermelho e laranja para aproximar as janelas da estetica futurista usada no perfil Akuma.
+
+
 
