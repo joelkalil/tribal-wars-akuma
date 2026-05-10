@@ -86,7 +86,7 @@ Scripts com configuracao propria mantem a configuracao antes do `$.getScript`, c
 | `troopsCounterFixed.js` | troopsCounterFixed | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/troopsCounterFixed.js');` |
 | `troopTemplatesManager.js` | Troop Templates Manager | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/troopTemplatesManager.js');` |
 | `villagesInRange.js` | Find Villages in Range | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/villagesInRange.js');` |
-| `WHBalancerAkuma.js` | Akuma WH Cluster Balancer | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/WHBalancerAkuma.js');` |
+| `WHBalancerShinkoToKuma.js` | Warehouse Balancer | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/WHBalancerShinkoToKuma.js');` |
 | `watchtowerEvolved.js` | WatchTower Evolved | `javascript:$.getScript('https://raw.githubusercontent.com/joelkalil/tribal-wars-akuma/refs/heads/main/src/scripts/barra_de_acesso/watchtowerEvolved.js');` |
 
 ## Creditos
@@ -154,7 +154,7 @@ Scripts com configuracao propria mantem a configuracao antes do `$.getScript`, c
 | `troopsCounterFixed.js` | troopsCounterFixed | Nao informado | Nao informado no arquivo | Akuma |
 | `troopTemplatesManager.js` | Troop Templates Manager | v1.2.6-akuma.1 | RedAlert | Akuma |
 | `villagesInRange.js` | Find Villages in Range | v1.1.2-akuma.1 | RedAlert | Akuma |
-| `WHBalancerAkuma.js` | Akuma WH Cluster Balancer | v1.0.0-akuma.1 | Akuma, inspirado por Sophie "Shinko to Kuma" | Akuma |
+| `WHBalancerShinkoToKuma.js` | Warehouse Balancer | v2026.05.10-akuma.1 | Sophie "Shinko to Kuma" | Akuma |
 | `watchtowerEvolved.js` | WatchTower Evolved | v1.1.2-akuma.1 | RedAlert | Akuma |
 
 ## Dependencias Locais
