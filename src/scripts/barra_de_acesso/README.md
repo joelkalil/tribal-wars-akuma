@@ -4,6 +4,18 @@ Esta pasta foi resetada para manter os scripts modificados fora da raiz enquanto
 
 Os codigos originais baixados novamente ficam em `src/scripts/barra_de_acesso/originals/`.
 
+## Akuma Signature
+
+Tambem existe uma nova base Tampermonkey em `src/scripts/barra_de_acesso/akuma_signature/`.
+
+Ela cria um painel fixo no topo do Tribal Wars e executa os scripts originais via `GM_xmlhttpRequest`, dando mais liberdade do que `$.getScript` direto na barra de acesso.
+
+Instalacao depois do push:
+
+```txt
+https://cdn.jsdelivr.net/gh/joelkalil/tribal-wars-akuma@main/src/scripts/barra_de_acesso/akuma_signature/akuma_signature_panel.user.js
+```
+
 ## Autores Identificados
 
 - Nao informado no arquivo
